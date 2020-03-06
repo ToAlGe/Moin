@@ -1,0 +1,49 @@
+
+
+header{
+        display: flex;
+        width: 80%;
+        min-width: width 500px;
+        max-width: width 700px;
+        text-align:center;
+
+}
+main{
+        display: flex;
+        background-color: white;
+        width: 80%;
+        min-width: width 500px;
+        max-width: width 700px;
+        text-align:justify;
+    }
+
+section{
+        flex: 2;
+}
+
+
+p{
+        text-align: center;
+}
+
+li{
+        list-style-type: none;
+        padding: 5px;
+}
+
+.profil{
+        width: 200px;
+        height: 200px;
+}
+
+.font{
+        font-family: Arial;
+        font-size: 1.5em;
+}
+
+
+
+h2{
+        font-size: 5em;
+        color: lightgray;
+}
